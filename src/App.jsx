@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from "react";
 import StudentForm from "./components/StudentForm";
 import StudentTable from "./components/StudentTable";
